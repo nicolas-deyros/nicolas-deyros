@@ -2,6 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Carrefour
-- 🌱 I’m currently learning Node.js, Vue.js and React.js
+- 🔭 I’m currently working on Lenovo
+- 🌱 I’m currently learning Node.js & React.js
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nicolasdeyros/)
