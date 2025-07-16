@@ -3,6 +3,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Lenovo
-- 🌱 I’m currently learning Node.js & React.js
+- 🌱 I’m currently learning AI
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nicolasdeyros/)
 - :link: Work in progress [Portfolio](https://ndeyros.vercel.app/)
