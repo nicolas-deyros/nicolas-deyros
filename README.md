@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on Lenovo
 - 🌱 I’m currently learning AI
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nicolasdeyros/)
-- :link: Work in progress [Portfolio](https://ndeyros.vercel.app/)
+- :link: Work in progress [Portfolio](https://ndeyros.dev/)
