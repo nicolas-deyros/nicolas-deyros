@@ -1,6 +1,8 @@
 # Hi, I'm Nicolás Deyros 👋
 
-Digital marketing professional (20+ years) building at the intersection of brand, UX, and AI. Currently at **Lenovo**, based in Argentina.
+Full Stack Developer & Project Manager with 20+ years in digital marketing — building at the intersection of brand, UX, and AI. Currently at **Lenovo**, based in Argentina.
+
+I write about agentic systems, Chrome AI APIs, and modern web dev on [my blog](https://ndeyros.dev/).
 
 ## 🚀 What I'm building
 
@@ -21,7 +23,7 @@ Digital marketing professional (20+ years) building at the intersection of brand
 
 ## 🌱 Now
 
-Learning AI and agentic workflows.
+Deep in agentic workflows: Claude Code, Gemini, MCPs, and Chrome built-in AI.
 
 ## 📫 Reach me
 
