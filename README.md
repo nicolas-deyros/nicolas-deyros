@@ -1,6 +1,6 @@
 # Hi, I'm Nicolás Deyros 👋
 
-Full Stack Developer & Project Manager with 20+ years in digital marketing — building at the intersection of brand, UX, and AI. Currently at **Lenovo**, based in Argentina.
+**Web Production Manager, Americas @ Lenovo** — running digital operations, localization, and automation across 21 countries. Full Stack Developer & Project Manager with 20+ years in digital, building at the intersection of brand, UX, and AI. Based in Argentina.
 
 I write about agentic systems, Chrome AI APIs, and modern web dev on [my blog](https://ndeyros.dev/).
 
